@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-Copy `.env.example` to `.env.local` and set `NEXT_PUBLIC_FIREBASE_API_KEY` to the Firebase Web API key from your Firebase project settings. Do not commit `.env.local`.
+Copy `.env.example` to `.env` and set `NEXT_PUBLIC_FIREBASE_API_KEY` to the Firebase Web API key from your Firebase project settings. Do not commit `.env`.
 
 First, run the development server:
 
