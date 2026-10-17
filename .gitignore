@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.*
+!.env.example
+serviceAccountKey.json
+**/serviceAccountKey.json
+.DS_Store
+.next/
+out/
+build/
+coverage/
+*.tsbuildinfo

@@ -1,0 +1,14 @@
+{
+  "navbar": {
+    "internships": "Estágios",
+    "jobs": "Vagas",
+    "searchPlaceholder": "Buscar oportunidades...",
+    "logout": "Sair",
+    "continueWithGoogle": "Continuar com o Google",
+    "admin": "Administrador"
+  },
+  "toast": {
+    "loginSuccess": "login efetuado com sucesso",
+    "loginFailed": "falha no login"
+  }
+}

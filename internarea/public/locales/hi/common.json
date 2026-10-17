@@ -1,0 +1,14 @@
+{
+  "navbar": {
+    "internships": "इंटर्नशिप",
+    "jobs": "नौकरियाँ",
+    "searchPlaceholder": "अवसर खोजें...",
+    "logout": "लॉग आउट",
+    "continueWithGoogle": "Google से जारी रखें",
+    "admin": "एडमिन"
+  },
+  "toast": {
+    "loginSuccess": "सफलतापूर्वक लॉग इन हुआ",
+    "loginFailed": "लॉगिन विफल रहा"
+  }
+}

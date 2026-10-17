@@ -1,0 +1,14 @@
+{
+  "navbar": {
+    "internships": "Stages",
+    "jobs": "Emplois",
+    "searchPlaceholder": "Rechercher des opportunités...",
+    "logout": "Déconnexion",
+    "continueWithGoogle": "Continuer avec Google",
+    "admin": "Administrateur"
+  },
+  "toast": {
+    "loginSuccess": "connexion réussie",
+    "loginFailed": "échec de la connexion"
+  }
+}

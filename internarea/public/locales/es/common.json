@@ -1,0 +1,14 @@
+{
+  "navbar": {
+    "internships": "Prácticas",
+    "jobs": "Empleos",
+    "searchPlaceholder": "Buscar oportunidades...",
+    "logout": "Cerrar sesión",
+    "continueWithGoogle": "Continuar con Google",
+    "admin": "Administrador"
+  },
+  "toast": {
+    "loginSuccess": "sesión iniciada correctamente",
+    "loginFailed": "error al iniciar sesión"
+  }
+}

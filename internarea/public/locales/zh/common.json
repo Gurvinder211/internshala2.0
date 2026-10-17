@@ -1,0 +1,14 @@
+{
+  "navbar": {
+    "internships": "实习",
+    "jobs": "职位",
+    "searchPlaceholder": "搜索机会...",
+    "logout": "退出登录",
+    "continueWithGoogle": "使用 Google 继续",
+    "admin": "管理员"
+  },
+  "toast": {
+    "loginSuccess": "登录成功",
+    "loginFailed": "登录失败"
+  }
+}

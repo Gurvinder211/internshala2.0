@@ -1,0 +1,16 @@
+{
+  "navbar": {
+    "internships": "Internships",
+    "jobs": "Jobs",
+    "searchPlaceholder": "Search opportunities...",
+    "logout": "Logout",
+    "continueWithGoogle": "Continue with google",
+    "admin": "Admin",
+    "login": "Login",
+    "register": "Register"
+  }, 
+  "toast": {
+    "loginSuccess": "logged in successfully",
+    "loginFailed": "login failed"
+  }
+}
